@@ -1,0 +1,10 @@
+* {
+    max-width: 800px;
+    margin: auto;
+}
+
+.post-card {
+    display:block;
+    border: black 1px solid;
+    cursor: pointer;
+}
