@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://catbree.github.io/tags/bar/</loc>
+    <lastmod>2021-07-14T23:14:36+08:00</lastmod>
+  </url><url>
     <loc>https://catbree.github.io/posts/fifth-post/</loc>
     <lastmod>2021-07-14T23:14:36+08:00</lastmod>
   </url><url>
     <loc>https://catbree.github.io/tags/foo/</loc>
     <lastmod>2021-07-14T23:14:36+08:00</lastmod>
   </url><url>
+    <loc>https://catbree.github.io/tags/idk/</loc>
+    <lastmod>2021-07-14T23:14:36+08:00</lastmod>
+  </url><url>
     <loc>https://catbree.github.io/posts/</loc>
+    <lastmod>2021-07-14T23:14:36+08:00</lastmod>
+  </url><url>
+    <loc>https://catbree.github.io/tags/span/</loc>
     <lastmod>2021-07-14T23:14:36+08:00</lastmod>
   </url><url>
     <loc>https://catbree.github.io/</loc>
@@ -20,11 +29,11 @@
     <loc>https://catbree.github.io/posts/fourth-post/</loc>
     <lastmod>2021-07-14T23:13:36+08:00</lastmod>
   </url><url>
+    <loc>https://catbree.github.io/tags/markdown/</loc>
+    <lastmod>2021-07-14T23:13:36+08:00</lastmod>
+  </url><url>
     <loc>https://catbree.github.io/posts/third-post/</loc>
     <lastmod>2021-07-14T23:11:36+08:00</lastmod>
-  </url><url>
-    <loc>https://catbree.github.io/tags/bar/</loc>
-    <lastmod>2021-07-13T23:11:36+08:00</lastmod>
   </url><url>
     <loc>https://catbree.github.io/posts/my-second-post/</loc>
     <lastmod>2021-07-13T23:11:36+08:00</lastmod>
