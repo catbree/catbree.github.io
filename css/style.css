@@ -13,6 +13,8 @@ body {
     font-family: 'Roboto Slab', serif;
     font-size: 18px;
     color: #281200;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 h1 {
@@ -121,13 +123,33 @@ a {
     justify-content: center;
 }
 
+@media screen and (max-width: 900px) {
+    .sunbits-title {
+        max-width: 500px;
+    }
+  }
+
 .sunbits-title-image {
     max-width: 240px;
+    height:auto;
 }
+
+@media screen and (max-width: 900px) {
+    .sunbits-title-image {
+        max-width: 120px;
+        height: auto;
+    }
+  }
 
 .sunbits-title h1 {
     color: #602B01;
 }
+
+@media screen and (max-width: 900px) {
+        .sunbits-title h1 {
+        font-size: 5rem;
+    }
+  }
 
 /* -------- Post Card -------- */
 
