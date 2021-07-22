@@ -129,6 +129,12 @@ a {
     }
   }
 
+@media screen and (max-width: 600px) {
+    .sunbits-title {
+        max-width: 340px;
+    }
+}
+
 .sunbits-title-image {
     max-width: 240px;
     height:auto;
@@ -139,17 +145,30 @@ a {
         max-width: 120px;
         height: auto;
     }
-  }
+}
+
+@media screen and (max-width:600px) {
+    .sunbits-title-image {
+        max-width: 80px;
+        height: auto;
+    }
+}
 
 .sunbits-title h1 {
     color: #602B01;
 }
 
 @media screen and (max-width: 900px) {
-        .sunbits-title h1 {
+    .sunbits-title h1 {
         font-size: 5rem;
     }
   }
+
+@media screen and (max-width: 600px) {
+    .sunbits-title h1 {
+        font-size: 2rem;
+    }
+}
 
 /* -------- Post Card -------- */
 
