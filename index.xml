@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunbits by Hoi Cheng</title>
+    <title>Sunbits</title>
     <link>https://catbree.github.io/</link>
-    <description>Recent content on Sunbits by Hoi Cheng</description>
+    <description>Recent content on Sunbits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jul 2021 17:42:34 +0800</lastBuildDate><atom:link href="https://catbree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 10:30:00 +0800</lastBuildDate><atom:link href="https://catbree.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Highlight: Spotify Fan Study</title>
+      <link>https://catbree.github.io/posts/spotify-fan-study/</link>
+      <pubDate>Fri, 06 Aug 2021 10:30:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/posts/spotify-fan-study/</guid>
+      <description>&lt;p&gt;I came across Spotify&amp;rsquo;s Fan Study the other day - it shared a set of data-driven insights about the behaviours of Spotify Users and how artists can act upon them. I found it interesting and thought I&amp;rsquo;d share a short reflection piece about this website.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Book Review: Don&#39;t Make Me Think, Revisited</title>
       <link>https://catbree.github.io/posts/book-review-dont-make-me-think-revisited/</link>

@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sunbits by Hoi Cheng</title>
+    <title>Tags on Sunbits</title>
     <link>https://catbree.github.io/tags/</link>
-    <description>Recent content in Tags on Sunbits by Hoi Cheng</description>
+    <description>Recent content in Tags on Sunbits</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jul 2021 17:42:34 +0800</lastBuildDate><atom:link href="https://catbree.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 10:30:00 +0800</lastBuildDate><atom:link href="https://catbree.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>https://catbree.github.io/tags/design/</link>
+      <pubDate>Fri, 06 Aug 2021 10:30:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website Highlight</title>
+      <link>https://catbree.github.io/tags/website-highlight/</link>
+      <pubDate>Fri, 06 Aug 2021 10:30:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/tags/website-highlight/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Book Review</title>
       <link>https://catbree.github.io/tags/book-review/</link>
       <pubDate>Fri, 30 Jul 2021 17:42:34 +0800</pubDate>
       
       <guid>https://catbree.github.io/tags/book-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>https://catbree.github.io/tags/design/</link>
-      <pubDate>Fri, 30 Jul 2021 17:42:34 +0800</pubDate>
-      
-      <guid>https://catbree.github.io/tags/design/</guid>
       <description></description>
     </item>
     
