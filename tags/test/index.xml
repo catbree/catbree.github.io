@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Sunbits</title>
+    <link>https://catbree.github.io/tags/test/</link>
+    <description>Recent content in Test on Sunbits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Oct 2021 18:17:00 +0800</lastBuildDate><atom:link href="https://catbree.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Content Test</title>
+      <link>https://catbree.github.io/posts/post-content-test/</link>
+      <pubDate>Mon, 11 Oct 2021 18:17:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/posts/post-content-test/</guid>
+      <description>&lt;p&gt;This is a test post with different types of contents for testing purposes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
