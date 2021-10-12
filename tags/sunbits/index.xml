@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunbits</title>
+    <link>https://catbree.github.io/tags/sunbits/</link>
+    <description>Recent content on Sunbits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0800</lastBuildDate><atom:link href="https://catbree.github.io/tags/sunbits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunbits 1.1.0 Update</title>
+      <link>https://catbree.github.io/posts/sunbits-1.1.0-update/</link>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/posts/sunbits-1.1.0-update/</guid>
+      <description>It&amp;rsquo;s been awhile.
+I&amp;rsquo;m back after an unplanned hiatus. When Sunbits was first created, I envisioned it to be a consistently updated living journal of my learnings and progress. If you look at my past posts.</description>
+    </item>
+    
+  </channel>
+</rss>
