@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A bit on Sunbits</title>
+    <link>https://catbree.github.io/tags/a-bit/</link>
+    <description>Recent content in A bit on Sunbits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Nov 2021 19:00:00 +0800</lastBuildDate><atom:link href="https://catbree.github.io/tags/a-bit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A bit: Dewey Decimal System</title>
+      <link>https://catbree.github.io/posts/dewey-decimal-system/</link>
+      <pubDate>Thu, 11 Nov 2021 19:00:00 +0800</pubDate>
+      
+      <guid>https://catbree.github.io/posts/dewey-decimal-system/</guid>
+      <description>Have you ever looked at the spine of a library book and wondered how its call number was decided? Lucky for me, it was mentioned during work by a colleague of mine which led me into a small search on what it&amp;rsquo;s about.</description>
+    </item>
+    
+  </channel>
+</rss>
