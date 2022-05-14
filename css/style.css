@@ -397,6 +397,12 @@ a:active {
     width:100%;
 }
 
+/* -------- rawhtml syling -------- */
+.rawhtmlcontainer {
+    display: flex;
+    justify-content: center;    
+}
+
 /* -------- Footer -------- */
 
 .footer {    
